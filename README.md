@@ -18,6 +18,7 @@ access to local gpu machine.
 | python             | `= 3.x`        |:white_check_mark:|
 | pytorch            |` > 0.21.3`     |:white_check_mark:|
 | opencv-python      | `> 3.4`        |:white_check_mark:|
+| python-dotenv      | `x`            |:white_check_mark:|
 
 #### Operation System
 
