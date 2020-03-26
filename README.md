@@ -1,18 +1,13 @@
-# Face Detection
+# Running Face Detection in Google Colab
 
 ![Face detection using RetinaNet](./public/sample.jpg)
 
 ## Original Repository
 
-[Pytorch_Retinaface repository](https://github.com/biubug6/Pytorch_Retinaface)
-
-## Features
-
-- :ok: The best performance till 2019
-
-- :ok: Flexibility to support GPU and CPU
-
-- :ok: Enhancement with cython check this directory `widerface_evaluate`
+This repository is a fork from [Pytorch_Retinaface repository](https://github.com/biubug6/Pytorch_Retinaface)
+and created to show how you can run your machine learning projects during Qarantine on Google GPU machine if you have no
+access to local gpu machine.
+-------------
 
 ## Requirements
 
@@ -26,7 +21,7 @@
 
 #### Operation System
 
-- Ubuntu 16.04
+- Ubuntu 16.04 (we use colab to run our program)
 
 - GPU enabled
 
