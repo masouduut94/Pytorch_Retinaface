@@ -8,6 +8,9 @@ This repository is a fork from [Pytorch_Retinaface repository](https://github.co
 and created to show how you can run your machine learning projects during Qarantine on Google GPU machine if you have no
 access to local gpu machine.
 -------------
+## Medium Article supporting content
+
+[How Google Colab helped me to speed up my video processing tasks while working in remote and had no GPU.](https://medium.com/analytics-vidhya/how-google-colab-helped-me-to-speed-up-my-video-processing-tasks-during-quarantine-62641dc3b325)
 
 ## Requirements
 
